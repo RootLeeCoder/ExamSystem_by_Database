@@ -1,0 +1,17 @@
+G:\VSworkspace\Database_ExamSystem\Database_ExamSystem\bin\Debug\Database_ExamSystem.exe.config
+G:\VSworkspace\Database_ExamSystem\Database_ExamSystem\bin\Debug\Database_ExamSystem.exe
+G:\VSworkspace\Database_ExamSystem\Database_ExamSystem\bin\Debug\Database_ExamSystem.pdb
+G:\VSworkspace\Database_ExamSystem\Database_ExamSystem\obj\Debug\Database_ExamSystem.csprojResolveAssemblyReference.cache
+G:\VSworkspace\Database_ExamSystem\Database_ExamSystem\obj\Debug\Database_ExamSystem.Form1.resources
+G:\VSworkspace\Database_ExamSystem\Database_ExamSystem\obj\Debug\Database_ExamSystem.Properties.Resources.resources
+G:\VSworkspace\Database_ExamSystem\Database_ExamSystem\obj\Debug\Database_ExamSystem.csproj.GenerateResource.Cache
+G:\VSworkspace\Database_ExamSystem\Database_ExamSystem\obj\Debug\Database_ExamSystem.exe
+G:\VSworkspace\Database_ExamSystem\Database_ExamSystem\obj\Debug\Database_ExamSystem.pdb
+G:\VSworkspace\Database_ExamSystem\Database_ExamSystem\obj\Debug\Database_ExamSystem.Form2.resources
+G:\VSworkspace\Database_ExamSystem\Database_ExamSystem\obj\Debug\Database_ExamSystem.Form4.resources
+G:\VSworkspace\Database_ExamSystem\Database_ExamSystem\obj\Debug\Database_ExamSystem.Form5.resources
+G:\VSworkspace\Database_ExamSystem\Database_ExamSystem\obj\Debug\Database_ExamSystem.Form6.resources
+G:\VSworkspace\Database_ExamSystem\Database_ExamSystem\obj\Debug\Database_ExamSystem.Form7.resources
+G:\VSworkspace\Database_ExamSystem\Database_ExamSystem\obj\Debug\Database_ExamSystem.Form3.resources
+G:\VSworkspace\Database_ExamSystem\Database_ExamSystem\obj\Debug\Database_ExamSystem.Form8.resources
+G:\VSworkspace\Database_ExamSystem\Database_ExamSystem\obj\Debug\Database_ExamSystem.Form9.resources
